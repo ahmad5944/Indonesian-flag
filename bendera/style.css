@@ -1,0 +1,22 @@
+*{
+    position: absolute;
+  }
+  #myContainer {
+    width: 10px;
+    height: 275px;
+    margin: 40px 100px;
+    position: absolute;
+  }
+  #myAnimation {
+    width: 90px;
+    height: 25px;
+    margin-left: 35px;
+    margin-top: 8px;
+    background-color: red;
+    /* background-image: url("bendera.png"); */
+  }
+  .btn{
+      margin-top: 400px;
+      position: fixed;
+      margin-left: 70px;
+  }
